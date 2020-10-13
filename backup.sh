@@ -1,8 +1,9 @@
 #!/bin/bash
 
-BASEDIR=$(dirname "$0")
+docker stop minecraft
+sleep 30
 
-pwd
+BASEDIR=$(dirname "$0")
 
 pushd "$BASEDIR"
 
@@ -11,3 +12,5 @@ git commit -m $(date +"%Y-%m-%d")
 git push
 
 popd
+
+docker start minecraft
