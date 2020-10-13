@@ -1,4 +1,9 @@
+#!/bin/bash
+
 BASEDIR=$(dirname "$0")
+
+pwd
+
 pushd "$BASEDIR"
 
 git add .
