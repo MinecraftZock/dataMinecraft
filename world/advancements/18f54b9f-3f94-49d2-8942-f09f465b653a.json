@@ -608,6 +608,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/stone_sickle": {
+    "criteria": {
+      "has_items": "2020-10-15 13:10:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-09-27 16:10:44 +0000"
@@ -1258,6 +1264,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-09-28 17:08:54 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/iron_sickle": {
+    "criteria": {
+      "has_items": "2020-10-15 13:10:21 +0000"
     },
     "done": true
   },

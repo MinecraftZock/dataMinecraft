@@ -87,7 +87,7 @@
 			attackdamage_quartz = 2.0
 			#Redstone base attack damage
 			#Range: 0.0 ~ 9.99999999E8
-			attackdamage_redstone = -0.5
+			attackdamage_redstone = 0.0
 			#Cup base attack damage
 			#Range: 0.0 ~ 9.99999999E8
 			attackdamage_cup = 3.5
