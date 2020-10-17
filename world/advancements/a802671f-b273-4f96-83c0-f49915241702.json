@@ -549,6 +549,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/stone_sickle": {
+    "criteria": {
+      "has_items": "2020-10-17 15:30:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2020-09-28 14:44:42 +0000"
@@ -690,6 +696,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2020-10-11 12:53:26 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/wooden_sickle": {
+    "criteria": {
+      "has_items": "2020-10-17 15:30:51 +0000"
     },
     "done": true
   },
