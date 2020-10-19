@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/obsidian_sword": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2020-09-27 15:18:22 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/redstone_shovel": {
+    "criteria": {
+      "has_items": "2020-10-18 17:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2020-09-28 13:29:57 +0000"
@@ -62,6 +74,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2020-09-29 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-10-19 17:26:27 +0000"
     },
     "done": true
   },
@@ -134,6 +152,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2020-09-28 14:09:00 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/obsidian_helmet": {
+    "criteria": {
+      "has_obsidian": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -329,6 +353,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/lapis_pickaxe": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-10-07 14:37:44 +0000"
@@ -373,8 +403,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-10-19 17:31:14 +0000",
       "chicken": "2020-09-28 13:41:27 +0000",
       "cooked_mutton": "2020-09-27 16:00:37 +0000",
+      "cooked_beef": "2020-10-19 17:10:19 +0000",
       "beef": "2020-09-28 14:09:15 +0000",
       "porkchop": "2020-09-28 14:31:16 +0000",
       "mutton": "2020-09-28 14:09:07 +0000",
@@ -572,6 +604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-10-19 17:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-07 14:26:52 +0000"
@@ -764,6 +802,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/wooden_sickle": {
+    "criteria": {
+      "has_items": "2020-10-18 17:05:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2020-09-27 15:16:52 +0000"
@@ -800,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-09-28 14:49:40 +0000"
@@ -824,9 +874,21 @@
     },
     "done": true
   },
+  "supertools:recipes/armor/obsidian_leggings": {
+    "criteria": {
+      "has_obsidian": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-09-27 15:13:32 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/lapis_boots": {
+    "criteria": {
+      "has_lapis": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -857,6 +919,12 @@
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2020-09-27 16:13:39 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_sickle": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -949,9 +1017,21 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-10-19 17:23:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2020-10-11 16:45:06 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/lapis_sword": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -1051,6 +1131,12 @@
     },
     "done": true
   },
+  "supertools:recipes/armor/lapis_leggings": {
+    "criteria": {
+      "has_lapis": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-07 14:26:52 +0000"
@@ -1144,6 +1230,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-09-27 15:17:51 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_hoe": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -1273,6 +1365,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/diamond_sickle": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2020-09-27 15:13:32 +0000"
@@ -1291,6 +1389,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/redstone_axe": {
+    "criteria": {
+      "has_items": "2020-10-18 17:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2020-10-07 14:26:52 +0000"
@@ -1300,6 +1404,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2020-10-09 14:44:20 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/lapis_helmet": {
+    "criteria": {
+      "has_lapis": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -1429,6 +1539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-10-19 17:26:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-10-11 17:06:49 +0000"
@@ -1501,6 +1617,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/lapis_axe": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-09-27 15:17:51 +0000"
@@ -1510,6 +1632,18 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-09-28 13:31:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2020-10-19 17:22:59 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/golden_sickle": {
+    "criteria": {
+      "has_items": "2020-10-19 12:16:22 +0000"
     },
     "done": true
   },
@@ -1561,6 +1695,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/lapis_shovel": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2020-09-28 13:42:01 +0000"
@@ -1597,6 +1737,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-09-27 15:17:51 +0000"
@@ -1615,9 +1761,21 @@
     },
     "done": true
   },
+  "supertools:recipes/armor/lapis_chestplate": {
+    "criteria": {
+      "has_lapis": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2020-09-28 14:09:00 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_sickle": {
+    "criteria": {
+      "has_items": "2020-10-18 17:47:31 +0000"
     },
     "done": true
   },
@@ -1681,6 +1839,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/lapis_sickle": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-09-27 16:19:55 +0000",
@@ -1699,9 +1863,27 @@
     },
     "done": true
   },
+  "supertools:recipes/armor/obsidian_boots": {
+    "criteria": {
+      "has_obsidian": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-28 13:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2020-10-19 17:22:59 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_pickaxe": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -1720,6 +1902,18 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-09-27 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/lapis_hoe": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-10-19 17:39:06 +0000"
     },
     "done": true
   },
@@ -1780,6 +1974,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-10-12 15:53:51 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/armor/obsidian_chestplate": {
+    "criteria": {
+      "has_obsidian": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -1855,6 +2055,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/obsidian_axe": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis": "2020-10-12 16:17:55 +0000"
@@ -1864,6 +2070,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-09-28 13:43:36 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/obsidian_shovel": {
+    "criteria": {
+      "has_items": "2020-10-19 16:28:12 +0000"
     },
     "done": true
   },
@@ -1906,6 +2118,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2020-09-29 17:42:50 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_hoe": {
+    "criteria": {
+      "has_items": "2020-10-18 17:47:31 +0000"
     },
     "done": true
   },
@@ -1987,6 +2205,12 @@
     },
     "done": true
   },
+  "supertools:recipes/tools/redstone_pickaxe": {
+    "criteria": {
+      "has_items": "2020-10-18 17:47:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-09-27 15:29:47 +0000"
@@ -1996,6 +2220,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2020-09-27 15:18:22 +0000"
+    },
+    "done": true
+  },
+  "supertools:recipes/tools/redstone_sword": {
+    "criteria": {
+      "has_items": "2020-10-18 17:47:31 +0000"
     },
     "done": true
   },
