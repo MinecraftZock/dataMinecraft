@@ -1629,6 +1629,12 @@
     },
     "done": true
   },
+  "supertools:recipes/supertools/cup": {
+    "criteria": {
+      "has_items": "2020-10-20 17:19:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-09-28 13:31:24 +0000"
